@@ -21,7 +21,4 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-171&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-
-Atualmente estou fazendo faculdade de tecnologia de sistema para internet, e me especializando em JavaScript com cursos na Udemy.
