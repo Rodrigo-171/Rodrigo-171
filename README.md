@@ -1,4 +1,4 @@
-### Olá! Eu sou o Rodrigo Medeiros 👋
+### Hi! I'm Rodrigo Medeiros 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-medeiros-94667b1ba/)
 [![Portfólio](https://img.shields.io/badge/PORTFÓLIO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://rodrigo-171.github.io)
@@ -8,7 +8,7 @@
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-171&show_icons=true&theme=radical)
 
-### Tecnologias que eu uso no meu dia
+### Technologies in my daily life
 
 <div style="display: inline_block"><br>
     <img align="center" alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
